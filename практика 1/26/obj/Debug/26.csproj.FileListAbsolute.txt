@@ -1,0 +1,16 @@
+D:\П32\КПиЯП\ЛАБЫ\26\26\26\bin\Debug\26.exe
+D:\П32\КПиЯП\ЛАБЫ\26\26\26\bin\Debug\26.pdb
+D:\П32\КПиЯП\ЛАБЫ\26\26\26\obj\Debug\26.csprojResolveAssemblyReference.cache
+D:\П32\КПиЯП\ЛАБЫ\26\26\26\obj\Debug\26.csproj.CoreCompileInputs.cache
+D:\П32\КПиЯП\ЛАБЫ\26\26\26\obj\Debug\26.exe
+D:\П32\КПиЯП\ЛАБЫ\26\26\26\obj\Debug\26.pdb
+C:\Users\Александр\Desktop\26\26\obj\Debug\26.exe
+C:\Users\Александр\Desktop\26\26\obj\Debug\26.pdb
+C:\Users\Александр\Desktop\26\26\bin\Debug\26.exe
+C:\Users\Александр\Desktop\26\26\bin\Debug\26.pdb
+C:\Users\Александр\Desktop\26\26\obj\Debug\26.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\практика 1\26\obj\Debug\26.exe
+C:\Users\Александр\Desktop\практика 1\26\obj\Debug\26.pdb
+C:\Users\Александр\Desktop\практика 1\26\obj\Debug\26.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\практика 1\26\bin\Debug\26.exe
+C:\Users\Александр\Desktop\практика 1\26\bin\Debug\26.pdb

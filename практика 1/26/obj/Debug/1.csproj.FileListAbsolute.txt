@@ -1,0 +1,7 @@
+C:\Users\Александр\Desktop\практика 1\26\obj\Debug\26.exe
+C:\Users\Александр\Desktop\практика 1\26\obj\Debug\26.pdb
+E:\tets\практика 1\26\obj\Debug\26.exe
+E:\tets\практика 1\26\obj\Debug\26.pdb
+E:\tets\практика 1\26\bin\Debug\26.exe
+E:\tets\практика 1\26\bin\Debug\26.pdb
+E:\tets\практика 1\26\obj\Debug\1.csprojResolveAssemblyReference.cache
