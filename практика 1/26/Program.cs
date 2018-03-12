@@ -9,7 +9,10 @@ namespace __1
     {
         static void Main(string[] args)
         {
-      
+            rivers st1 = new rivers();
+            st1.Input();
+            st1.Display();
+            Console.ReadKey();
         }
     }
 }
